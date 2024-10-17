@@ -68,6 +68,7 @@
 .container__incricao--form-input button:hover {
     background: var(--lilas-escuro);
     transition: .5s;
+    cursor: pointer;
 }
 
 .container__incricao--form-input-div {
