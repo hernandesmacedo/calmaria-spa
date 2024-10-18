@@ -24,7 +24,7 @@
 }
 
 .container__primeiro--texto h1 span {
-    color: var(--azul-escuro2);
+    color: var(--azul-escuro);
 }
 
 .container__primeiro--texto-botao {
@@ -33,7 +33,7 @@
     color: white;
     border: none;
     border-radius: 6.6rem;
-    background: var(--azul-escuro);
+    background: var(--azul-botao);
     font-size: 2.4rem;
     font-family: 'Montserrat';
     font-weight: 700;
