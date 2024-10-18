@@ -100,7 +100,7 @@
     cursor: pointer;
 }
 
-@media screen and (min-width: 76.8rem) {
+@media screen and (min-width: 768px) {
 
     .container__contato {
         padding-left: 6.0rem;
@@ -149,7 +149,7 @@
 
 }
 
-@media screen and (min-width: 144.0rem) {
+@media screen and (min-width: 1440px) {
 
     .container__contato {
         flex-direction: row;

@@ -51,7 +51,7 @@
     padding-top: 1.6rem;
 }
 
-@media screen and (min-width: 76.8rem) {
+@media screen and (min-width: 768px) {
     /* Tablet */
 
     .container__secao {
@@ -82,7 +82,7 @@
 
 }
 
-@media screen and (min-width: 144.0rem) {
+@media screen and (min-width: 1440px) {
 
     .container__secao {
       margin-left: 12.0rem;
